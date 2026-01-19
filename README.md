@@ -21,25 +21,6 @@ The project is designed to demonstrate **secure smart contract development**, **
 
 ---
 
-## 🏗️ Project Structure
-
-nft-collection-project/
-│
-├── contracts/
-│ └── NftCollection.sol
-│
-├── test/
-│ └── NftCollection.test.js
-│
-├── Dockerfile
-├── .dockerignore
-├── .gitignore
-├── hardhat.config.js
-├── package.json
-├── package-lock.json
-└── README.md
-
----
 
 ## 🛠️ Tech Stack
 
@@ -139,5 +120,6 @@ Designed for automated evaluation
 
 👤 Author
 Anusha Pavani Venneti
+
 
 
